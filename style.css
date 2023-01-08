@@ -102,16 +102,25 @@ a:hover{
     left: 500px;
     padding-bottom: 15px;
 }
+.python:hover{
+    background-color: #EAC7C7;
+}
 .machine-learning{
     position: relative;
     left: 500px;
     padding-bottom: 15px;
 }
+.machine-learning:hover{
+    background-color: #EAC7C7;
+}
 .c{
     position: relative;
     left: 500px;
 }
-
+.c{
+    position: relative;
+    left: 500px;
+}
 li{
     font-size: 20px;
     font-weight: 50;
