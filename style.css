@@ -1,0 +1,121 @@
+.top-container{
+    background-color: #EAFDFC;
+    text-align: center;
+    padding-bottom: 30px;
+}
+.middle-container{
+    padding-top: 10px;
+    background-color: #E3FDFD;
+    margin-top: 0px;
+    padding-bottom: 10px;
+}
+.hobbie-container{
+    background-color: #E3FDFD;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.skills-container{
+    background-color: #E3FDFD;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.work-experince-container{
+    padding-top: 30px;
+    background-color: #E3FDFD;
+    padding-bottom: 20px;
+}
+.contact-container{
+    background-color: #CBF1F5;
+    margin-top: 0px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+body{
+    margin:0;
+    text-align: center;
+}
+.profile-img{
+    border-radius: 25px;
+    border: 1px solid #EAFDFC;
+    position: relative;
+    left:10px;
+}
+.info{
+    position: relative;
+    left:5px;
+    top:10px;
+}
+h1{
+    color: #1C315E;
+    margin: auto auto 10px auto;
+}
+h3{
+    color: #1C315E;
+    margin-top: 0px;
+    font-size: 30px;
+    font-weight: normal;
+}
+.intro-line{
+    margin: auto auto 15px auto;
+}
+hr{
+    background-color: #CBF1F5;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    height: 0px;
+    width: 5%;
+    margin: 0 auto 10px auto;
+
+}
+.list{
+    margin: 5px auto 5px auto;
+    text-align: left;
+    padding-bottom: 20px;
+    padding-right: 15px;
+}
+a{
+    color: #3F72AF;
+    text-decoration: none;
+}
+a:hover{
+    background-color: white;
+}
+.table{
+    align-items: center;
+}
+.pyhton-st{
+    position: relative;
+    left: 600px;
+}
+.machine-st{
+    position: relative;
+    left: 600px;
+}
+.c-st{
+    position: relative;
+    left: 600px;
+}
+.python{
+    position: relative;
+    left: 500px;
+    padding-bottom: 15px;
+}
+.machine-learning{
+    position: relative;
+    left: 500px;
+    padding-bottom: 15px;
+}
+.c{
+    position: relative;
+    left: 500px;
+}
+
+li{
+    font-size: 20px;
+    font-weight: 50;
+}
+.p1{
+    padding-left: 5px;
+}
