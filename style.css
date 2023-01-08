@@ -117,9 +117,8 @@ a:hover{
     position: relative;
     left: 500px;
 }
-.c{
-    position: relative;
-    left: 500px;
+.c:hover{
+    background-color: #EAC7C7;
 }
 li{
     font-size: 20px;
